@@ -1,5 +1,4 @@
-## Nose que estoy haciendo... te maldigo UVM👋
-
+## Nose que estoy haciendo...
 <!--
 **Dexterpol-A21/Dexterpol-A21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
